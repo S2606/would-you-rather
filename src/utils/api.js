@@ -39,7 +39,6 @@ export function saveQuestionAnswer(info) {
  * Format questions in a particular way
  * @param {JSON} info 
  */
-export 
 export function formatQuestion(info) {
     return _formatQuestion(info)
 }
